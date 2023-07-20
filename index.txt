@@ -1,2 +1,0 @@
-this is index file.
-new line is added after gitignore.
