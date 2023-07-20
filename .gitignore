@@ -1,4 +1,5 @@
 index.txt
+header.php
 /vendor/
 node_modules/
 npm-debug.log
